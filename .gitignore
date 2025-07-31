@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Chrome WebDriver
+chromedriver*
+
+# Logs
+*.log
+download.log
+
+# Downloaded files and history
+download_history.json
+/Users/*/Desktop/加米相簿/
+加米相簿/
+
+# Sensitive config (if separated)
+secrets.py
+config_local.py
+config.py
+
+# Test and debug files
+test_*.py
+debug_*.py
+minimal_test.py
+quick_test.py
+comprehensive_pagination_test.py
+simple_pagination_test.py
+working_pagination_test.py
+example_usage.py
+
+# Temporary files
+*.tmp
+*.temp
